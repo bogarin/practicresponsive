@@ -1,0 +1,2 @@
+# practicresponsive
+practicando con bootstrap
